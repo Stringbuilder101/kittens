@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Stringbuilder101/kittens/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Stringbuilder101/kittens/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html lang="en">
+   <meta charset="UTF-8">
+   <title>DashBoard</title>
+   <hr></hr>
+      <table> <tr>             
+     <th> <img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5hbK4zehLGbKdtTDrC2Y5MaHFaUEZMDxUg&usqp=CAU"></th>
+     <th><h2>Dashboard CS355</h2></th> </tr>
+      </table>
+      <hr></hr>
+   <body>
+      
+      <p>
+      <img src="data:image/jpeg;base64,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" alt="Band at a concert">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdR9DiEQdvkhSKYoqgbI6T4qpr2brLiKmApA&usqp=CAU" alt="cat"></p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR50pJC8W1GNXs-nfULwmcMxSrVRtnOlx6-6Q&usqp=CAU">
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpiEA7wXGuG2lCYJvCl_pj2I554mymm6dwwg&usqp=CAU">
+<p>
+<img src = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRatU4wVnhw3fTZzdwiTAoleUV8DL-VmNPM9Q&usqp=CAU"></p>
+      <!-- Section links -->
+      <hr></hr>
+      <p>
+         <a href="#members">Project 1</a> &nbsp;
+         <a href="#concerts">Project 2</a> &nbsp;
+         <a href="#contact">Project 3</a> &nbsp;
+        
+      </p>
+   
+      <!-- List of band members -->
+          
+      <!-- Table of upcoming concerts -->
+          
+      <!-- Contact information -->
+   </body>
+</html>
